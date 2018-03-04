@@ -9,6 +9,7 @@ PartB- Shadertoy-Style Scene - <b>HW3PartB.html</b><br>
  PartC-<b>HW3PartC.pdf</b>
   For this part of the assignment I looked into createing caustic effects. My main source for this was from <i>GPU Gems</i> http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch02.html. 
  
+ These are screenShots for PartB of the assignment.
 <img src="screenShots/screenShot1.png">
 <img src="screenShots/screenShot2.png">
 
